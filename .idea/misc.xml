@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/ostap/AndroidStudioProjects/MyApplication20/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/ostap/AndroidStudioProjects/MyApplication20/feature_detail/src/main/res/layout/fragment_detail.xml" value="0.2203125" />
         <entry key="..\:/Users/ostap/AndroidStudioProjects/MyApplication20/feature_list/src/main/res/layout/fragment_list.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/ostap/AndroidStudioProjects/MyApplication20/feature_list/src/main/res/layout/item.xml" value="0.38697916666666665" />
+        <entry key="..\:/Users/ostap/AndroidStudioProjects/MyApplication20/navigation/src/main/res/layout/fragment_test.xml" value="0.38697916666666665" />
       </map>
     </option>
   </component>
